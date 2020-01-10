@@ -6,6 +6,8 @@ It works phenomenally well on my PS4. I use psxita v2 with this kernel. Unfortun
 but as far as i could tell from the patches it should work on ALL* versions now. You are more than welcome to confirm this by creating an issue 
 with the model and behavior.
 
+Compiled Kernel + initramfs at: https://mega.nz/#!0XRxASjT!5dONWyNmb0n_3gEzw3OGzEbHPUVwZF3nl1sHiWPxfOw
+
 Enjoy! 
 
 * = untested 
